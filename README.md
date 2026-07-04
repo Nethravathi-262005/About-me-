@@ -21,6 +21,7 @@ Tools: 🛠️ Git, GitHub, VS Code, Jupyter Notebook
 💼 Projects & Experience
 📘 Developing academic and beginner-level data analytics projects.
 📊 Worked on COVID-19 Data Analysis, performing data cleaning, exploratory data analysis (EDA), and creating visualizations using Python to identify trends and generate meaningful insights.
+
 📈 Goals
 🎯 Become a professional Data Analyst 📊
 🌟 Continuously improve my skills in Python, SQL, Excel, Power BI, and data visualization while building impactful projects and contributing to data-driven decision-making.
